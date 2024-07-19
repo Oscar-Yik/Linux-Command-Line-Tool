@@ -13,7 +13,7 @@
 
 # Demo 
 
-![Demo Video](https://github.com/Oscar-Yik/Linux-Command-Line-Tool/blob/main/assets/Linux_Command_Line_Tool_Demo.mp4)
+![Demo Video](https://github.com/user-attachments/assets/65fbc881-cca9-4c1a-bede-2af51feb893a)
 
 ## Commands Run in the Demo
 1. `ls -l`
